@@ -3,7 +3,7 @@ SharpICTCLAS
 
 由吕震宇根据Free版ICTCLAS，在CLR平台下CSharp语言的实现。
 
-/***********************************************************************************
+ ***********************************************************************************
  * ICTCLAS简介：计算所汉语词法分析系统ICTCLAS
  *              Institute of Computing Technology, Chinese Lexical Analysis System
  *              功能有：中文分词；词性标注；未登录词识别。
@@ -15,7 +15,7 @@ SharpICTCLAS
  * Email: zhanghp@software.ict.ac.cn
  * Homepage:www.i3s.ac.cn
  * 
- *----------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------
  * 
  * Copyright (c) 2000, 2001
  *     Institute of Computing Tech.
@@ -26,9 +26,9 @@ SharpICTCLAS
  * Institute of Computing Tech. and the posession or use of this file requires
  * a written license from the author.
  * Author:   Kevin Zhang
- *          (zhanghp@software.ict.ac.cn)、
+ *          (zhanghp@software.ict.ac.cn)
  * 
- *----------------------------------------------------------------------------------
+ ---------------------------------------------------------------------------------
  * 
  * SharpICTCLAS：.net平台下的ICTCLAS
  *               是由河北理工大学经管学院吕震宇根据Free版ICTCLAS改编而成，
@@ -37,8 +37,9 @@ SharpICTCLAS
  * Email: zhenyulu@163.com
  * Blog: http://www.cnblogs.com/zhenyulu
  *
- *----------------------------------------------------------------------------------
- *20131219	1.由SmartBooks将公开的源代码上传至GitHub.
+ ---------------------------------------------------------------------------------
+ *
+ * 20131219	1.由SmartBooks将公开的源代码上传至GitHub.
  *			2.FreeICTCLASLinux版本代码：http://sewm.pku.edu.cn/QA/
  *
- ***********************************************************************************/
+ ***********************************************************************************
